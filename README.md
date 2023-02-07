@@ -2,6 +2,17 @@
 - 🔭 I’m currently working on I like to Code and Learn to build the next generation applications
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate test
+
+.  Social Media
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dushan-malinda-7a0786264/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+
+😊Tanks for looking my profile😊
 <!--
 **DushanMalind/DushanMalind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
