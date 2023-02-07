@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on I like to Code and Learn to build the next generation applications
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate test
 <!--
 **DushanMalind/DushanMalind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
