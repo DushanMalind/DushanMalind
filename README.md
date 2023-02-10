@@ -52,7 +52,7 @@ This site was built using [Click Me](https://www.linkedin.com/in/dushan-malinda-
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me//count.svg" />
+  <img src="https://profile-counter.glitch.me/DushanMalind/count.svg" />
 </p>
 
 😊Thanks for looking my profile😊
