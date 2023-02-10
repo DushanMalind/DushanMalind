@@ -7,6 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dushanmalind" alt="dushanmalind" /></a> </p>
 
+<img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **like to Code and Learn to build the next generation applications**
@@ -45,7 +50,13 @@
 This site was built using [Click Me](https://www.linkedin.com/in/dushan-malinda-7a0786264/).
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me//count.svg" />
+</p>
+
 😊Thanks for looking my profile😊
+
 <!--
 **DushanMalind/DushanMalind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
