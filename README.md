@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=4930FF00&width=435&lines=Hi+i'm+Dushan+Malinda;"/>😊❤️😊
 
 <h1 align="center">Hi 👋, I'm Dushan Malinda</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h3 align="center">A passionate Full Stack developer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushanmalind&label=Profile%20views&color=0e75b6&style=flat" alt="dushanmalind" /> </p>
 
